@@ -1,0 +1,5 @@
+com\exemplo\cadastro\model\Usuario.class
+com\exemplo\cadastro\repository\UsuarioRepository.class
+com\exemplo\cadastro\service\UsuarioService.class
+com\exemplo\cadastro\controller\UsuarioController.class
+com\exemplo\cadastro\CadastroApplication.class
